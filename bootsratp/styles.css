@@ -1,0 +1,17 @@
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+[class^="col"] {
+    border: 1px solid black;
+    background-color: aquamarine;
+}
+
+[class*="nav"]{
+
+    border: none;
+}
+
+.alert {
+    display: none;
+}
